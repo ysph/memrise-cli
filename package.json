@@ -1,0 +1,25 @@
+{
+  "name": "memrise-cli",
+  "version": "1.0.0",
+  "description": "manage your courses at memrise easily through CLI.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysph/memrise-cli.git"
+  },
+  "keywords": [
+    "memrise"
+  ],
+  "author": "Mikhail A. <erehpsy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysph/memrise-cli/issues"
+  },
+  "homepage": "https://github.com/ysph/memrise-cli#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
